@@ -1,20 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fY66AKnLthOJdY3Usd/giphy.gif" width="100"/>
+  <div>
+  Hi there 👋
+  </div>
 </div>
 
-### Hi there 👋
+---
+<div>
+I am a PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" display"inline"> from Viet Nam.
+</div>
 
-<!--
-**phhung1901/phhung1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning at Hanoi University of Civil Engineering - Computer Sience
+- 🤟Date of birth: 19/01/2001
+- 💬 Phone: 0983785181
+- 📫 Email: phhung1901@gmail.com
+- ⚡ Fun fact: 1m80, handsome, ... :v
