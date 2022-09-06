@@ -6,7 +6,10 @@
 </div>
 
 ---
+
+
 <div>
+<h2>🤭 About me:</h2>
 I am a PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" display"inline"> from Viet Nam.
 </div>
 
