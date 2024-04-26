@@ -12,7 +12,7 @@
 I am a PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" display"inline"> from Viet Nam.
 </div>
 
-- 🌱 I’m currently learning at Hanoi University of Civil Engineering - Computer Sience
+- 🌱 Computer Science Engineer - Graduated from Hanoi University of Civil Engineering
 - 🤟Date of birth: 19/01/2001
 - 💬 Phone: 0983785181
 - 📫 Email: phhung1901@gmail.com
